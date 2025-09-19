@@ -1,2 +1,1 @@
-# NoteHub
-Personal Notes App
+
